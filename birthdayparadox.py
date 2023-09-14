@@ -1,6 +1,6 @@
 """Birthday Paradox Simulation, by Donald Teghen donald.teghen@gmailcom
 Explore the surprising probabilities of the "Birthday Paradox".
-More info at https://en.wikipedia.org/wiki/Birthday_problem
+More info at https://learningwithdonny.com/mini-games/birthdayparadox
 Tags: short, math, simulation"""
 
 import datetime, random

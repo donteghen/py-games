@@ -2,7 +2,7 @@
 The classic card game also known as 21. (This version doesn't have
 splitting or insurance.)
 More info at: https://en.wikipedia.org/wiki/Blackjack
-This code is available at https://nostarch.com/big-book-small-python-programming
+This code is available at https://learningwithdonny.com/mini-games/balckjack
 Tags: large, game, card game"""
 
 import random, sys

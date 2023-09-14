@@ -1,6 +1,6 @@
 """Bagels,by Donald Teghen donald.teghen@gmail.com
 A deductive logic game where you must guess a number based on clues.
-View this code at https://nostarch.com/big-book-small-python-projects
+This code is available at https://learningwithdonny.com/mini-games/bagels
 A version of this game is featured in the book "Invent Your Own
 Tags: short, game, puzzle"""              
 
