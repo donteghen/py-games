@@ -1,3 +1,8 @@
+"""Bitmap Message, by Donald donaldteghen@gmail.com
+Displays a text message according to the provided bitmap image.
+This code is available at https://learnwithdonny.com/mini-games/bitmapmessage
+Tags: tiny, beginner, artistic"""
+
 import  sys
 
 message = input('Enter name for bitmap > ')
