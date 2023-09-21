@@ -1,4 +1,4 @@
-"""Collatz Sequence, by Al Sweigart al@inventwithpython.com
+"""Collatz Sequence, by Donald Teghen donaldteghen@gmail.com
 Generates numbers for the Collatz sequence, given a starting number.
 More info at: https://en.wikipedia.org/wiki/Collatz_conjecture
 View this code at https://nostarch.com/big-book-small-python-projects
@@ -7,7 +7,7 @@ Tags: tiny, beginner, math"""
 import sys, time, pprint
 
 print('''Collatz Sequence, or, the 3n + 1 Problem
-By Al Sweigart al@inventwithpython.com
+By Donald Teghen donaldteghen@gmail.com
 The Collatz sequence is a sequence of numbers produced from a starting
 number n, following three rules:
 1) If n is even, the next number n is n / 2.
